@@ -1,0 +1,1 @@
+dart compile exe "%~dp0/Nova/Nova.dart" -o "%~dp0/nova.exe"
